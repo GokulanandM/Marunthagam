@@ -1,0 +1,14 @@
+pandas
+nltk
+textblob
+flashtext
+folium
+streamlit-folium
+geopy
+Flask
+SpeechRecognition
+streamlit-webrtc
+numpy==1.21.6
+spacy==3.2.4
+thinc==8.0.4
+streamlit==1.12.0
